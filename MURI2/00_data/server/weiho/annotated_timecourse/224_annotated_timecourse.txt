@@ -1,0 +1,2 @@
+Position, Gene, Allele, Annotation, Test statistic, P-value, Deletion index, Fold reduction, Deletion P-value, Duplication index, Fold increase, Duplication pvalue, Passed?, AC:0, DP:0
+0, intergenic, Depth, unknown, 0.0, 1.0, 0, 0.0, 1.0, 0, 0.0, 1.0, FAIL, 0.0, 100.0
